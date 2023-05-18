@@ -6,7 +6,7 @@
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 
-Çözüm:
+Çözüm:<br>
 [16,21,11,8,12,22]<br>
 [16,21,11] , [8,12,22]<br>
 [16], [21,11], [8,12], [22]<br>
